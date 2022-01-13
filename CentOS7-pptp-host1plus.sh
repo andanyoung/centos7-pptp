@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #    Setup Simple PPTP VPN server for CentOS 7 on Host1plus
 #    Copyright (C) 2018-2022 andnayang <1218853253@qq.com> and contributors
 #
